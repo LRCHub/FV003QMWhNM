@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Gashina(가시나)",
+  "base_artist": "SUNMI(선미)",
+  "createdAt": "2026-03-26T13:33:57.077776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gashina(가시나)",
+      "artist": "SUNMI(선미)",
+      "has_synced": true,
+      "path": "select/01_Gashina(가시나)_SUNMI(선미).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gashina (가시나)",
+      "artist": "SUNMI(선미)",
+      "has_synced": true,
+      "path": "select/02_Gashina_(가시나)_SUNMI(선미).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gashina(가시나)",
+      "artist": "SUNMI(선미)",
+      "has_synced": true,
+      "path": "select/03_Gashina(가시나)_SUNMI(선미).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gashina",
+      "artist": "ソンミ",
+      "has_synced": false,
+      "path": "select/pl_01_Gashina_ソンミ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Gashina",
+      "artist": "ソンミ",
+      "has_synced": false,
+      "path": "select/pl_02_Gashina_ソンミ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gashina - KR.ver -",
+      "artist": "ソンミ",
+      "has_synced": false,
+      "path": "select/pl_03_Gashina_-_KR.ver_-_ソンミ.txt"
+    }
+  ]
+}
